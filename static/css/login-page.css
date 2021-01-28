@@ -1,0 +1,104 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: #2A333C !important;
+    --ggs: 6;
+}
+
+.header {
+    background-image: url("./assets/triangle-border-2.png");
+    background-repeat: repeat-x;
+    background-size: 190px 100px;
+    height: 190px;
+    width: 100%;
+}
+
+.sub-part-1 {
+    margin-top: 40%;
+    margin: auto;
+    background-color: #2A333C;
+}
+
+#login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    /* IE 9 */
+    -webkit-transform: translate(-50%, -50%);
+    /* Chrome, Safari, Opera */
+    margin: auto;
+}
+
+.form-control,
+.form-group {
+    margin: 0 auto;
+}
+
+.first-input {
+    border-radius: 3px 3px 0 0;
+}
+
+.second-input {
+    border-radius: 0 0 0 0;
+}
+
+.third-input {
+    border-radius: 0 0 3px 3px;
+}
+
+.button {
+    background-color: #EBEAE2;
+    /* width: 100%; */
+    width: 100%;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    color: black;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding: 7px;
+}
+
+#c1 {
+    height: 460px;
+    width: 430px;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #2A333C;
+    border: 2px solid #FE8975;
+    border-radius: 2%;
+}
+
+#c2 {
+    height: 432px;
+    width: 430px;
+    margin-top: 14px;
+    margin-left: 3%;
+    position: absolute;
+    background-color: #e67779;
+    border-radius: 2%;
+    border: 2px solid #ffc7ba;
+}
+
+#login-heading {
+    margin-top: 4%;
+    color: white;
+}
+
+.button {
+    background-color: #F1C8BE;
+    /* width: 100%; */
+    width: 100%;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    color: black;
+    /* font-weight: bold; */
+    font-size: 18px;
+    padding: 7px;
+}
