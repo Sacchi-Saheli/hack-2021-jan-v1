@@ -1,24 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
 html,
 body {
     height: 100%;
     width: 100%;
     margin: 0;
-    background-color: #2A333C !important;
+    /* background-color: red !important; */
+    background-color: #2a333c !important;
     --ggs: 6;
-}
-
-.header {
-    background-image: url("./assets/triangle-border-2.png");
-    background-repeat: repeat-x;
-    background-size: 190px 100px;
-    height: 190px;
-    width: 100%;
 }
 
 .sub-part-1 {
     margin-top: 40%;
     margin: auto;
-    background-color: #2A333C;
+    background-color: #2a333c;
 }
 
 #login-container {
@@ -51,7 +49,7 @@ body {
 }
 
 .button {
-    background-color: #EBEAE2;
+    background-color: #ebeae2;
     /* width: 100%; */
     width: 100%;
     border-radius: 3px;
@@ -69,8 +67,8 @@ body {
     position: relative;
     margin: auto;
     margin-top: 50px;
-    background-color: #2A333C;
-    border: 2px solid #FE8975;
+    background-color: #2a333c;
+    border: 2px solid #fe8975;
     border-radius: 2%;
 }
 
@@ -91,7 +89,7 @@ body {
 }
 
 .button {
-    background-color: #F1C8BE;
+    background-color: #f1c8be;
     /* width: 100%; */
     width: 100%;
     border-radius: 3px;
@@ -102,3 +100,28 @@ body {
     font-size: 18px;
     padding: 7px;
 }
+
+.container {
+    margin: 3rem 0;
+}
+
+.routingClass {
+    text-align: "center";
+    background-color: #4a4a4a;
+    width: 100%;
+    padding: 0.7rem;
+    color: #bcf1ed;
+    border-radius: 0 0 0.5rem 0.5rem;
+}
+
+.registerText {
+    color: #007bff !important;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.successMessage {
+    color: green;
+    font-weight: bold;
+}
+
