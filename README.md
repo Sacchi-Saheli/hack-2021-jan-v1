@@ -16,4 +16,4 @@ Some of the most important challenges for existence of such a platform are:	Some
 
 # Screenshots
 
-!()[]
+![home](https://github.com/divyanshTyagi/hack-2021-jan-v1/blob/main/photos/home%20page.JPG)
