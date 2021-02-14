@@ -27,3 +27,4 @@ Some of the most important challenges for existence of such a platform are:	Some
 ![market2](https://github.com/divyanshTyagi/hack-2021-jan-v1/blob/main/photos/market%202.JPG)
 ![idea1](https://github.com/divyanshTyagi/hack-2021-jan-v1/blob/main/photos/idea%20pitch%201.JPG)
 ![idea2](https://github.com/divyanshTyagi/hack-2021-jan-v1/blob/main/photos/idea%20pitch%202.JPG)
+![profile](https://github.com/divyanshTyagi/hack-2021-jan-v1/blob/main/photos/profile.JPG)
