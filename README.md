@@ -13,3 +13,7 @@ Some of the most important challenges for existence of such a platform are:	Some
 </ol>	</ul>
 <strong> Instructions </strong>
 <p> Start navigating from the login page folder, for the purpose of demo, all email and passwords are valid for logging in </p>
+
+# Screenshots
+
+!()[]
