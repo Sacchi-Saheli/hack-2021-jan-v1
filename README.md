@@ -5,6 +5,7 @@ SACHI SAHELI provides a platform where the rural women can be provided ample opp
 Some of the most important challenges for existence of such a platform are:	Some of the most important challenges for existence of such a platform are:
 
 <a href = "https://youtu.be/jshM6aHifXA"> Video Link </a>
+<br>
 <a href = "https://aansh-01.github.io/hack-2021-jan-v1/main/main.html"> Demo link </a>
 <ol>	<ul>
   	<li>Problems with traditional mindset of women being restricted to the household work</li>	  	<li>Problems with traditional mindset of women being restricted to the household work</li>
