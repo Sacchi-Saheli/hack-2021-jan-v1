@@ -3,10 +3,10 @@
 In third world countries like India, entrepreneurship is still a male dominated field where the female contribution is almost negligible. One of the major reasons is the unavailability of resources and no exposure at the highest level of leadership and business management.
 SACHI SAHELI provides a platform where rural women are provided with ample opportunities; by connecting them with the investors all over the world who wish to invest in their talent and home-made products which would be appreciated all over the globe.
 
-Important Challenges that rural women face in face of becoming self-independent entrepreneurs:	
+Important Challenges that rural women face on the road of entrepreneurship:	
 
 <ol>	<ul>
-  	<li>Problems with traditional mindset of women being restricted to the household work</li>	  	<li>Problems with traditional mindset of women being restricted to the household work</li>
+  	<li>Problems with traditional mindset of women being restricted to the household work</li>	
   <li>Lack of technical knowledge</li>	  
   <li>Lack of financial education</li>	  
   	<li>Lack of resources</li>	  	
