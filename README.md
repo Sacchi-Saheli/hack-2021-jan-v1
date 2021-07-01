@@ -22,6 +22,13 @@ Important Challenges that rural women face on the road of entrepreneurship:
   <li> We have provided blogs, which in future will be available in all languages. These blogs will help in educating rural women about financial independence, expansion of business, consolidation of resources and many other such things related to business and finance.</li>
 </ul>
 
+## Future Prospects
+  ### Tech Stack
+  We have completed only the front end development phase of the project, and thus it's still a <strong> work in progress </strong>. However in future we are planning on incorporating Blockchain technology for transactions and payments. The code will be restructured using ReactJS.
+  
+  ### General
+  We hope that in future this app is used widely, and it helps not only women of rural class, but all women who believe in their ideas, and want to capitalize their product. 
+  
 
 ## Project Demo
 <a href = "https://youtu.be/jshM6aHifXA"> Video Link </a>
