@@ -4,9 +4,6 @@ In third world countries like India, entrepreneurship is still a male dominated 
 SACHI SAHELI provides a platform where rural women are provided with ample opportunities; by connecting them with the investors all over the world who wish to invest in their talent and home-made products which would be appreciated all over the globe.
 Some of the most important challenges for existence of such a platform are:	
 
-<a href = "https://youtu.be/jshM6aHifXA"> Video Link </a>
-<br>
-<a href = "https://aansh-01.github.io/hack-2021-jan-v1/main/main.html"> Demo link </a>
 <ol>	<ul>
   	<li>Problems with traditional mindset of women being restricted to the household work</li>	  	<li>Problems with traditional mindset of women being restricted to the household work</li>
   <li>Lack of technical knowledge</li>	  <li>Lack of technical knowledge</li>
@@ -16,6 +13,10 @@ Some of the most important challenges for existence of such a platform are:
 </ol>	</ul>
 <strong> Instructions </strong>
 <p> Start navigating from the login page folder, for the purpose of demo, all email and passwords are valid for logging in </p>
+
+<a href = "https://youtu.be/jshM6aHifXA"> Video Link </a>
+<br>
+<a href = "https://aansh-01.github.io/hack-2021-jan-v1/main/main.html"> Demo link </a>
 
 # Screenshots
 
