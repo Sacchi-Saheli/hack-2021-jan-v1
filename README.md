@@ -11,9 +11,8 @@ Some of the most important challenges for existence of such a platform are:
   	<li>Lack of resources</li>	  	<li>Lack of resources</li>
   	<li>Low connectivity issues.</li>	  	<li>Low connectivity issues.</li>
 </ol>	</ul>
-<strong> Instructions </strong>
-<p> Start navigating from the login page folder, for the purpose of demo, all email and passwords are valid for logging in </p>
 
+## Project Demo
 <a href = "https://youtu.be/jshM6aHifXA"> Video Link </a>
 <br>
 <a href = "https://aansh-01.github.io/hack-2021-jan-v1/main/main.html"> Demo link </a>
